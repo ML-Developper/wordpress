@@ -1,0 +1,904 @@
+# Translation of Plugins - Header Footer Builder for Elementor - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Header Footer Builder for Elementor - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2026-03-27 09:51:17+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Header Footer Builder for Elementor - Stable (latest release)\n"
+
+#: widgets/navigation-menu-hf.php:978
+msgid "Menu Item Width"
+msgstr "Largeur de l’élément de menu"
+
+#: widgets/navigation-menu-hf.php:605
+msgid "Active"
+msgstr "Activé"
+
+#: header-footer-template/header-builder/turbo-header-template.php:84
+#: header-footer-template/header-builder/turbo-header-template.php:591
+msgid " Optional – use this to hide the header on specific pages."
+msgstr " Facultatif – Utilisez cela pour masquer l’entête sur des pages spécifiques."
+
+#: header-footer-template/header-builder/turbo-header-template.php:59
+#: header-footer-template/header-builder/turbo-header-template.php:569
+msgid " Optional – use this to show the header on specific pages."
+msgstr " Facultatif – Utilisez cela pour afficher l’entête sur des pages spécifiques."
+
+#: header-footer-template/header-builder/turbo-header-template.php:55
+msgid "Header Name"
+msgstr "Nom de l’entête"
+
+#: widgets/icon-button-hf.php:19
+msgid "H&F Button"
+msgstr "Bouton H&F"
+
+#: widgets/top-bar-hf.php:333
+msgid "Icon Border Radius"
+msgstr "Rayon de bordure de l’cône"
+
+#: widgets/top-bar-hf.php:325
+msgid "Icon Border"
+msgstr "Bordure de l’icône"
+
+#: widgets/top-bar-hf.php:312
+msgid "Icon Padding"
+msgstr "Marges internes de l’icône"
+
+#: widgets/top-bar-hf.php:301
+msgid "Icon Background Color"
+msgstr "Couleur d’arrière-plan de l’icône"
+
+#: widgets/top-bar-hf.php:239
+msgid "Icons"
+msgstr "Icônes"
+
+#: widgets/top-bar-hf.php:131
+msgid "No"
+msgstr "Non"
+
+#: widgets/top-bar-hf.php:130
+msgid "Yes"
+msgstr "Oui"
+
+#: widgets/top-bar-hf.php:127
+msgid "Swap Left and Right Content"
+msgstr "Échange de contenu gauche et droit"
+
+#: widgets/top-bar-hf.php:118
+msgid "Box"
+msgstr "Boîte"
+
+#: widgets/top-bar-hf.php:101
+msgid "Icon List"
+msgstr "Liste d’icônes"
+
+#: widgets/top-bar-hf.php:86
+msgid "Icon Link"
+msgstr "Lien de l’icône"
+
+#: widgets/top-bar-hf.php:63
+msgid "Contact email: support@turbo-addons.com"
+msgstr "E-mail de contact : support@turbo-addons.com"
+
+#: widgets/top-bar-hf.php:61
+msgid "Right Side Text"
+msgstr "Texte côté droit"
+
+#: widgets/top-bar-hf.php:52
+msgid "Follow Us: "
+msgstr "Suivez-nous : "
+
+#: widgets/top-bar-hf.php:50
+msgid "Left Side Text"
+msgstr "Texte côté gauche"
+
+#: widgets/top-bar-hf.php:20
+msgid "Top Bar"
+msgstr "Barre supérieure"
+
+#: widgets/site-logo-hf.php:128
+msgid "Max Width"
+msgstr "Largeur maxi"
+
+#: widgets/site-logo-hf.php:63
+msgid "Link to Homepage"
+msgstr "Lien vers la page d’accueil"
+
+#: widgets/site-logo-hf.php:49 widgets/site-logo-hf.php:55
+msgid "Custom Logo"
+msgstr "Logo personnalisé"
+
+#: widgets/site-logo-hf.php:48
+msgid "Use Site Logo (Customizer)"
+msgstr "Utiliser le logo du site (outil de personnalisation)"
+
+#: widgets/site-logo-hf.php:45
+msgid "Logo Source"
+msgstr "Source du logo"
+
+#: widgets/site-logo-hf.php:19 widgets/site-logo-hf.php:40
+msgid "Site Logo"
+msgstr "Logo du site"
+
+#: widgets/navigation-menu-hf.php:1320
+msgid "Border Width"
+msgstr "Largeur de bordure"
+
+#: widgets/navigation-menu-hf.php:1268
+msgid "Space"
+msgstr "Espace"
+
+#: widgets/navigation-menu-hf.php:1247
+msgid "Lines Height"
+msgstr "Interlignage"
+
+#: widgets/navigation-menu-hf.php:1137
+msgid "Dropdown Offset"
+msgstr "Décalage du menu déroulant"
+
+#: widgets/navigation-menu-hf.php:1117
+msgid "Sub Menu Vertical Spacing"
+msgstr "Espacement vertical du sous-menu"
+
+#: widgets/navigation-menu-hf.php:1096
+msgid "Sub Menu Font Size"
+msgstr "Taille de police du sous-menu"
+
+#: widgets/navigation-menu-hf.php:814 widgets/navigation-menu-hf.php:1073
+msgid "Divider Height"
+msgstr "Hauteur du séparateur"
+
+#: widgets/navigation-menu-hf.php:799 widgets/navigation-menu-hf.php:1058
+msgid "Divider Color"
+msgstr "Couleur du séparateur"
+
+#: widgets/navigation-menu-hf.php:788 widgets/navigation-menu-hf.php:1046
+msgid "Divider"
+msgstr "Séparateur"
+
+#: widgets/navigation-menu-hf.php:762
+msgid "Offset X"
+msgstr "Décalage X"
+
+#: widgets/navigation-menu-hf.php:740
+msgid "Vertical Gap"
+msgstr "Écart vertical"
+
+#: widgets/navigation-menu-hf.php:440 widgets/navigation-menu-hf.php:627
+#: widgets/navigation-menu-hf.php:677 widgets/navigation-menu-hf.php:905
+#: widgets/navigation-menu-hf.php:956 widgets/navigation-menu-hf.php:1180
+#: widgets/navigation-menu-hf.php:1235 widgets/navigation-menu-hf.php:1375
+#: widgets/top-bar-hf.php:140
+msgid "Background Color"
+msgstr "Couleur d’arrière-plan"
+
+#: widgets/navigation-menu-hf.php:647
+msgid "Sub Menu"
+msgstr "Sous-menu"
+
+#: widgets/navigation-menu-hf.php:539 widgets/navigation-menu-hf.php:1026
+msgid "Vertical Spacing"
+msgstr "Espacement vertical"
+
+#: widgets/navigation-menu-hf.php:516 widgets/navigation-menu-hf.php:1004
+msgid "Horizontal Spacing"
+msgstr "Espacement horizontal"
+
+#: widgets/navigation-menu-hf.php:493
+msgid "Inner Horizontal Spacing"
+msgstr "Espacement horizontal interne"
+
+#: widgets/navigation-menu-hf.php:451 widgets/navigation-menu-hf.php:968
+msgid "Active Item"
+msgstr "Élément actif"
+
+#: widgets/navigation-menu-hf.php:427 widgets/navigation-menu-hf.php:612
+#: widgets/navigation-menu-hf.php:664 widgets/navigation-menu-hf.php:890
+#: widgets/navigation-menu-hf.php:943 widgets/navigation-menu-hf.php:1165
+#: widgets/navigation-menu-hf.php:1221 widgets/navigation-menu-hf.php:1361
+msgid "Color"
+msgstr "Couleur"
+
+#: widgets/navigation-menu-hf.php:373
+msgid "Toggle Align"
+msgstr "Alignement de la bascule"
+
+#: widgets/navigation-menu-hf.php:364
+msgid "Icon 5"
+msgstr "Icône 5"
+
+#: widgets/navigation-menu-hf.php:363
+msgid "Icon 4"
+msgstr "Icône 4"
+
+#: widgets/navigation-menu-hf.php:362
+msgid "Icon 3"
+msgstr "Icône 3"
+
+#: widgets/navigation-menu-hf.php:361
+msgid "Icon 2"
+msgstr "Icône 2"
+
+#: widgets/navigation-menu-hf.php:360
+msgid "Icon 1"
+msgstr "Icône 1"
+
+#: widgets/navigation-menu-hf.php:356
+msgid "Toggle Icon"
+msgstr "Icône de la bascule"
+
+#: widgets/navigation-menu-hf.php:349 widgets/navigation-menu-hf.php:1204
+msgid "Hamburger"
+msgstr "Hamburger"
+
+#: widgets/navigation-menu-hf.php:323
+msgid "Item Alignment"
+msgstr "Alignement de l’élément"
+
+#: widgets/navigation-menu-hf.php:295
+msgid "Dropdown Section Alignment"
+msgstr "Alignement de la section du menu déroulant"
+
+#: widgets/navigation-menu-hf.php:261 widgets/navigation-menu-hf.php:1288
+#: widgets/site-logo-hf.php:103
+msgid "Width"
+msgstr "Largeur"
+
+#: widgets/navigation-menu-hf.php:251
+msgid "Custom Width"
+msgstr "Largeur personnalisée"
+
+#: widgets/navigation-menu-hf.php:250
+msgid "Full Width"
+msgstr "Pleine largeur"
+
+#: widgets/navigation-menu-hf.php:245
+msgid "Dropdown Width"
+msgstr "Largeur du menu déroulant"
+
+#. translators: %d: Breakpoint number.
+#: widgets/navigation-menu-hf.php:235
+msgid "Tablet (≤ %dpx)"
+msgstr "Tablette (≤ %dpx)"
+
+#. translators: %d: Breakpoint number.
+#: widgets/navigation-menu-hf.php:233
+msgid "Mobile (≤ %dpx)"
+msgstr "Mobile (≤ %dpx)"
+
+#: widgets/navigation-menu-hf.php:228
+msgid "Brakpoint"
+msgstr "Point de rupture"
+
+#: widgets/navigation-menu-hf.php:220
+msgid "Dropdown"
+msgstr "Menu déroulant"
+
+#: widgets/navigation-menu-hf.php:212 widgets/navigation-menu-hf.php:926
+msgid "Mobile Menu"
+msgstr "Menu mobile"
+
+#: widgets/navigation-menu-hf.php:193
+msgid "Transition Duration"
+msgstr "Durée de transition"
+
+#: widgets/navigation-menu-hf.php:185
+msgid "Click"
+msgstr "Clic"
+
+#: widgets/navigation-menu-hf.php:180
+msgid "Dropdown Display Style"
+msgstr "Style d’affichage du menu déroulant"
+
+#: widgets/navigation-menu-hf.php:168
+msgid "Absolute"
+msgstr "Absolu"
+
+#: widgets/navigation-menu-hf.php:167
+msgid "Inline"
+msgstr "En ligne"
+
+#: widgets/navigation-menu-hf.php:163
+msgid "Sub Menu Position"
+msgstr "Position du sous menu"
+
+#: widgets/navigation-menu-hf.php:154
+msgid "Plus"
+msgstr "Plus"
+
+#: widgets/navigation-menu-hf.php:153
+msgid "Chevron"
+msgstr "Chevron"
+
+#: widgets/navigation-menu-hf.php:152
+msgid "Angle"
+msgstr "Angle"
+
+#: widgets/navigation-menu-hf.php:151
+msgid "Triangle"
+msgstr "Triangle"
+
+#: widgets/navigation-menu-hf.php:146
+msgid "Dropdown Icon"
+msgstr "Icône de menu déroulant"
+
+#: widgets/navigation-menu-hf.php:138
+msgid "Menu Items"
+msgstr "Éléments du menu"
+
+#: widgets/navigation-menu-hf.php:105
+msgid "Align"
+msgstr "Aligner"
+
+#. translators: %s is the admin URL for creating a menu
+#: widgets/navigation-menu-hf.php:96
+msgid "<span>Make Your Menu First - </span> <strong><a href=\"%s\" target=\"_blank\">Click Here</a> </strong>"
+msgstr "<span>Créez votre menu d’abord - </span> <strong><a href=\"%s\" target=\"_blank\">Cliquez ici</a> </strong>"
+
+#: widgets/navigation-menu-hf.php:82
+msgid "Select Menu"
+msgstr "Sélectionner un menu"
+
+#: widgets/navigation-menu-hf.php:27 widgets/navigation-menu-hf.php:410
+msgid "Menu"
+msgstr "Menu"
+
+#: widgets/icon-button-hf.php:537 widgets/icon-button-hf.php:561
+#: widgets/icon-button-hf.php:607 widgets/icon-button-hf.php:628
+#: widgets/top-bar-hf.php:258
+msgid "Icon Spacing"
+msgstr "Espacement de l’icône"
+
+#: widgets/icon-button-hf.php:525 widgets/icon-button-hf.php:595
+#: widgets/top-bar-hf.php:246
+msgid "Icon Color"
+msgstr "Couleur de l’icône"
+
+#: widgets/icon-button-hf.php:488
+msgid "Top Position"
+msgstr "Position supérieure"
+
+#: widgets/icon-button-hf.php:463 widgets/navigation-menu-hf.php:462
+#: widgets/top-bar-hf.php:279
+msgid "Icon Size"
+msgstr "Taille de l’icône"
+
+#: widgets/icon-button-hf.php:442
+msgid "Icon Position"
+msgstr "Position de l’icône"
+
+#: widgets/icon-button-hf.php:290 widgets/icon-button-hf.php:410
+#: widgets/icon-button-hf.php:588 widgets/navigation-menu-hf.php:184
+#: widgets/navigation-menu-hf.php:883 widgets/navigation-menu-hf.php:1158
+#: widgets/navigation-menu-hf.php:1354
+msgid "Hover"
+msgstr "Au survol"
+
+#: widgets/icon-button-hf.php:280 widgets/icon-button-hf.php:353
+msgid "Box Shadow"
+msgstr "Ombre de la boîte"
+
+#: widgets/icon-button-hf.php:253 widgets/icon-button-hf.php:330
+#: widgets/navigation-menu-hf.php:584 widgets/navigation-menu-hf.php:1340
+#: widgets/top-bar-hf.php:191
+msgid "Border Radius"
+msgstr "Rayon de bordure"
+
+#: widgets/icon-button-hf.php:213 widgets/icon-button-hf.php:389
+#: widgets/icon-button-hf.php:518 widgets/navigation-menu-hf.php:420
+#: widgets/navigation-menu-hf.php:657 widgets/navigation-menu-hf.php:936
+#: widgets/navigation-menu-hf.php:1214
+msgid "Normal"
+msgstr "Normal"
+
+#: widgets/icon-button-hf.php:159
+msgid "Button Width"
+msgstr "Largeur du bouton"
+
+#: widgets/icon-button-hf.php:150
+msgid "Button"
+msgstr "Bouton"
+
+#: widgets/icon-button-hf.php:130
+msgid "Effect Background"
+msgstr "Effet de l’arrière-plan"
+
+#: widgets/icon-button-hf.php:120
+msgid "Expand Circular"
+msgstr "Expansion circulaire"
+
+#: widgets/icon-button-hf.php:119
+msgid "Expand Horizontal"
+msgstr "Expansion horizontale"
+
+#: widgets/icon-button-hf.php:118
+msgid "Expand Vertical"
+msgstr "Expansion verticale"
+
+#: widgets/icon-button-hf.php:117
+msgid "From Bottom"
+msgstr "Depuis le bas"
+
+#: widgets/icon-button-hf.php:116
+msgid "From Top"
+msgstr "Depuis le haut"
+
+#: widgets/icon-button-hf.php:115
+msgid "From Right"
+msgstr "Depuis la droite"
+
+#: widgets/icon-button-hf.php:114
+msgid "Reveal Radial"
+msgstr "Révélation radiale"
+
+#: widgets/icon-button-hf.php:113
+msgid "From Left"
+msgstr "Depuis la gauche"
+
+#: widgets/icon-button-hf.php:112 widgets/navigation-menu-hf.php:150
+#: widgets/navigation-menu-hf.php:249
+msgid "None"
+msgstr "Aucun"
+
+#: widgets/icon-button-hf.php:108
+msgid "Animation Effect"
+msgstr "Effet d’animation"
+
+#: widgets/icon-button-hf.php:100
+msgid "Button Animation"
+msgstr "Animation du bouton"
+
+#: widgets/icon-button-hf.php:82 widgets/top-bar-hf.php:88
+msgid "https://your-link.com"
+msgstr "https://your-link.com"
+
+#: widgets/icon-button-hf.php:80
+msgid "Link"
+msgstr "Lien"
+
+#: widgets/icon-button-hf.php:66 widgets/icon-button-hf.php:434
+#: widgets/top-bar-hf.php:74
+msgid "Icon"
+msgstr "Icône"
+
+#: widgets/icon-button-hf.php:54
+msgid "Contact Us"
+msgstr "Contactez-nous"
+
+#: widgets/icon-button-hf.php:52
+msgid "Button Text"
+msgstr "Texte du bouton"
+
+#: widgets/copy-right-hf.php:132 widgets/site-logo-hf.php:151
+#: widgets/top-bar-hf.php:170
+msgid "Margin"
+msgstr "Marges externes"
+
+#: widgets/copy-right-hf.php:118 widgets/icon-button-hf.php:232
+#: widgets/icon-button-hf.php:309 widgets/navigation-menu-hf.php:698
+#: widgets/navigation-menu-hf.php:720 widgets/navigation-menu-hf.php:1309
+#: widgets/site-logo-hf.php:159 widgets/top-bar-hf.php:157
+msgid "Padding"
+msgstr "Marges internes"
+
+#: widgets/copy-right-hf.php:113 widgets/icon-button-hf.php:245
+#: widgets/icon-button-hf.php:322 widgets/top-bar-hf.php:183
+msgid "Border"
+msgstr "Bordure"
+
+#: widgets/copy-right-hf.php:106 widgets/icon-button-hf.php:222
+#: widgets/icon-button-hf.php:299
+msgid "Background"
+msgstr "Arrière-plan"
+
+#: widgets/copy-right-hf.php:100 widgets/icon-button-hf.php:368
+#: widgets/icon-button-hf.php:377 widgets/top-bar-hf.php:207
+#: widgets/top-bar-hf.php:215
+msgid "Typography"
+msgstr "Typographie"
+
+#: widgets/copy-right-hf.php:90 widgets/icon-button-hf.php:395
+#: widgets/icon-button-hf.php:416 widgets/top-bar-hf.php:224
+msgid "Text Color"
+msgstr "Couleur du texte"
+
+#: widgets/copy-right-hf.php:85 widgets/site-logo-hf.php:74
+msgid "Style"
+msgstr "Style"
+
+#: widgets/copy-right-hf.php:71 widgets/icon-button-hf.php:195
+#: widgets/icon-button-hf.php:450 widgets/navigation-menu-hf.php:125
+#: widgets/navigation-menu-hf.php:309 widgets/navigation-menu-hf.php:337
+#: widgets/navigation-menu-hf.php:387 widgets/site-logo-hf.php:92
+msgid "Right"
+msgstr "À droite"
+
+#: widgets/copy-right-hf.php:67 widgets/icon-button-hf.php:191
+#: widgets/navigation-menu-hf.php:121 widgets/navigation-menu-hf.php:305
+#: widgets/navigation-menu-hf.php:333 widgets/navigation-menu-hf.php:383
+#: widgets/site-logo-hf.php:88
+msgid "Center"
+msgstr "Centré"
+
+#: widgets/copy-right-hf.php:63 widgets/icon-button-hf.php:187
+#: widgets/icon-button-hf.php:446 widgets/navigation-menu-hf.php:117
+#: widgets/navigation-menu-hf.php:301 widgets/navigation-menu-hf.php:329
+#: widgets/navigation-menu-hf.php:379 widgets/site-logo-hf.php:84
+msgid "Left"
+msgstr "À gauche"
+
+#: widgets/copy-right-hf.php:59 widgets/icon-button-hf.php:183
+#: widgets/site-logo-hf.php:80
+msgid "Alignment"
+msgstr "Alignement"
+
+#: widgets/copy-right-hf.php:54 widgets/copy-right-hf.php:146
+msgid "All Rights Reserved."
+msgstr "Tous droits réservés."
+
+#: widgets/copy-right-hf.php:52
+msgid "Rights Text"
+msgstr "Texte relatif aux droits"
+
+#: widgets/copy-right-hf.php:44 widgets/copy-right-hf.php:145
+msgid "Your Company"
+msgstr "Votre entreprise"
+
+#: widgets/copy-right-hf.php:42
+msgid "Company Name"
+msgstr "Nom de l’entreprise"
+
+#: widgets/copy-right-hf.php:37 widgets/icon-button-hf.php:43
+#: widgets/top-bar-hf.php:41
+msgid "Content"
+msgstr "Contenu"
+
+#: widgets/copy-right-hf.php:18
+msgid "Copy Right"
+msgstr "Droits d’auteur"
+
+#: includes/class-hfb-recommend-turbo-addons.php:123
+msgid "Turbo Addons for Elementor"
+msgstr "Turbo Addons for Elementor"
+
+#: wppulse/wppulse-plugin-analytics-engine-sdk.php:236
+#: wppulse/wppulse-plugin-analytics-engine-sdk.php:246
+msgid "Permission denied."
+msgstr "Permission refusée."
+
+#: wppulse/wppulse-plugin-analytics-engine-sdk.php:171
+msgid "Submit & Deactivate"
+msgstr "Envoyer et désactiver"
+
+#: wppulse/wppulse-plugin-analytics-engine-sdk.php:168
+msgid "Skip & Deactivate"
+msgstr "Ignorer et désactiver"
+
+#: wppulse/wppulse-plugin-analytics-engine-sdk.php:164
+msgid "Optional: tell us more..."
+msgstr "Facultatif : racontez-nous en plus..."
+
+#: wppulse/wppulse-plugin-analytics-engine-sdk.php:123
+msgid "Others"
+msgstr "Autres"
+
+#: wppulse/wppulse-plugin-analytics-engine-sdk.php:122
+msgid "Didn't work as expected"
+msgstr "Ça n’a pas fonctionné comme prévu"
+
+#: wppulse/wppulse-plugin-analytics-engine-sdk.php:121
+msgid "Not what I was looking for"
+msgstr "Ce n’est pas ce que je cherchais"
+
+#: wppulse/wppulse-plugin-analytics-engine-sdk.php:120
+msgid "Not working"
+msgstr "Ne fonctionne pas"
+
+#: wppulse/wppulse-plugin-analytics-engine-sdk.php:119
+msgid "Missing a feature"
+msgstr "Une fonctionnalité manquante"
+
+#: wppulse/wppulse-plugin-analytics-engine-sdk.php:118
+msgid "Found a better plugin"
+msgstr "J’ai trouvé un meilleure extension"
+
+#: wppulse/wppulse-plugin-analytics-engine-sdk.php:117
+msgid "Couldn't understand"
+msgstr "Je ne comprenais pas"
+
+#: wppulse/wppulse-plugin-analytics-engine-sdk.php:111
+msgid "Before deactivation, could you tell us why?"
+msgstr "Avant la désactivation, pourriez-vous nous dire pourquoi ?"
+
+#. Description of the plugin
+#: header-footer-builder-for-elementor.php
+msgid "Header Footer Builder for Elementor & WooCommerce. Easy, customizable plugin for headers/footers with display rules, sticky header & include/exclude."
+msgstr "Constructeur d’entêtes et de pieds de page pour Elementor et WooCommerce. Extension simple et personnalisable pour les entêtes et pieds de page avec règles d’affichage, entête épinglé et options d’inclusion/exclusion."
+
+#: header-footer-template/header-footer-menu/header-footer-menu.php:36
+msgid "Welcome to Turbo H&F Builder. Here you can manage your header and footer templates."
+msgstr "Bienvenue chez Turbo H&F Builder. Ici, vous pouvez gérer vos modèles d’entête et de pied de page."
+
+#: header-footer-builder-for-elementor.php:375
+#: header-footer-template/header-footer-menu/header-footer-menu.php:17
+#: header-footer-template/header-footer-menu/header-footer-menu.php:18
+#: header-footer-template/header-footer-menu/header-footer-menu.php:35
+msgid "Turbo H&F Builder"
+msgstr "Turbo H&F Builder"
+
+#: header-footer-template/header-builder/turbo-header-template.php:563
+msgid "Edit Header Conditions"
+msgstr "Modifier les conditions de l’entête"
+
+#: header-footer-template/header-builder/turbo-header-template.php:548
+msgid "Edit Conditions"
+msgstr "Modifier les conditions"
+
+#: header-footer-template/header-builder/turbo-header-template.php:249
+msgid "Error creating template"
+msgstr "Erreur lors de la création du modèle"
+
+#: header-footer-template/header-builder/turbo-header-template.php:215
+msgid "Create & Edit with Elementor"
+msgstr "Créer et éditer avec Elementor"
+
+#: header-footer-template/header-builder/turbo-header-template.php:205
+#: header-footer-template/header-builder/turbo-header-template.php:210
+msgid "Create Header Template"
+msgstr "Créer un modèle d’entête"
+
+#: header-footer-template/header-builder/turbo-header-template.php:98
+#: header-footer-template/header-builder/turbo-header-template.php:603
+msgid "Enable Scroll Animation"
+msgstr "Activer l’animation de défilement"
+
+#: header-footer-template/header-builder/turbo-header-template.php:97
+#: header-footer-template/header-builder/turbo-header-template.php:602
+msgid "Make Header Sticky"
+msgstr "Épingler l’entête"
+
+#: header-footer-template/header-builder/turbo-header-template.php:95
+#: header-footer-template/header-builder/turbo-header-template.php:600
+msgid "Header Style"
+msgstr "Style d’entête"
+
+#: header-footer-template/header-builder/turbo-header-template.php:51
+msgid "Create New Header"
+msgstr "Créer un nouvel entête"
+
+#: header-footer-template/header-builder/turbo-header-template.php:17
+msgid "View Header Template"
+msgstr "Voir le modèle d’entête"
+
+#: header-footer-template/header-builder/turbo-header-template.php:16
+msgid "New Header Template"
+msgstr "Nouveau modèle d’entête"
+
+#: header-footer-template/header-builder/turbo-header-template.php:15
+msgid "Edit Header Template"
+msgstr "Modifier le modèle d’entête"
+
+#: header-footer-template/header-builder/turbo-header-template.php:14
+msgid "Add New Header Template"
+msgstr "Ajouter un nouveau modèle d’entête"
+
+#: header-footer-template/header-builder/turbo-header-template.php:13
+msgid "Add Header Template"
+msgstr "Ajouter un modèle d’entête"
+
+#: header-footer-template/header-builder/turbo-header-template.php:11
+#: header-footer-template/header-builder/turbo-header-template.php:12
+msgid "Header Template"
+msgstr "Modèle d’entête"
+
+#: header-footer-template/header-builder/turbo-header-template.php:10
+#: header-footer-template/header-builder/turbo-header-template.php:18
+msgid "Header Templates"
+msgstr "Modèles d’entête"
+
+#: header-footer-template/footer-builder/turbo-footer-template.php:260
+#: header-footer-template/header-builder/turbo-header-template.php:524
+msgid "Display Conditions"
+msgstr "Conditions d’affichage"
+
+#: header-footer-template/footer-builder/turbo-footer-template.php:227
+msgid "Conditions saved"
+msgstr "Conditions enregistrées"
+
+#: header-footer-template/footer-builder/turbo-footer-template.php:200
+msgid "Failed to create footer template."
+msgstr "Échec de création du modèle de pied de page."
+
+#: header-footer-template/footer-builder/turbo-footer-template.php:168
+#: header-footer-template/footer-builder/turbo-footer-template.php:211
+#: header-footer-template/footer-builder/turbo-footer-template.php:237
+#: header-footer-template/header-builder/turbo-header-template.php:226
+msgid "Permission denied"
+msgstr "Permission refusée"
+
+#: header-footer-template/footer-builder/turbo-footer-template.php:152
+#: header-footer-template/header-builder/turbo-header-template.php:609
+msgid "Update"
+msgstr "Mettre à jour"
+
+#: header-footer-template/footer-builder/turbo-footer-template.php:111
+msgid "Edit Footer Conditions"
+msgstr "Modifier les conditions du pied de page"
+
+#: header-footer-template/footer-builder/turbo-footer-template.php:102
+#: header-footer-template/footer-builder/turbo-footer-template.php:154
+#: header-footer-template/header-builder/turbo-header-template.php:102
+#: header-footer-template/header-builder/turbo-header-template.php:611
+#: wppulse/wppulse-plugin-analytics-engine-sdk.php:170
+msgid "Cancel"
+msgstr "Annuler"
+
+#: header-footer-template/footer-builder/turbo-footer-template.php:101
+#: header-footer-template/header-builder/turbo-header-template.php:101
+msgid "Create"
+msgstr "Créer"
+
+#: header-footer-template/footer-builder/turbo-footer-template.php:89
+#: header-footer-template/header-builder/turbo-header-template.php:84
+#: header-footer-template/header-builder/turbo-header-template.php:591
+msgid "Exclude Pages:"
+msgstr "Pages exclues :"
+
+#: header-footer-template/footer-builder/turbo-footer-template.php:83
+#: header-footer-template/footer-builder/turbo-footer-template.php:136
+#: header-footer-template/header-builder/turbo-header-template.php:79
+#: header-footer-template/header-builder/turbo-header-template.php:585
+msgid "All WooCommerce Pages"
+msgstr "Toutes les pages WooCommerce"
+
+#: header-footer-template/footer-builder/turbo-footer-template.php:82
+#: header-footer-template/footer-builder/turbo-footer-template.php:135
+#: header-footer-template/header-builder/turbo-header-template.php:78
+#: header-footer-template/header-builder/turbo-header-template.php:584
+msgid "All WooCommerce Products"
+msgstr "Tous les produits WooCommerce"
+
+#: header-footer-template/footer-builder/turbo-footer-template.php:79
+#: header-footer-template/footer-builder/turbo-footer-template.php:132
+#: header-footer-template/header-builder/turbo-header-template.php:76
+#: header-footer-template/header-builder/turbo-header-template.php:582
+msgid "All Archive Pages"
+msgstr "Toutes les pages d’archives"
+
+#: header-footer-template/footer-builder/turbo-footer-template.php:78
+#: header-footer-template/footer-builder/turbo-footer-template.php:131
+#: header-footer-template/header-builder/turbo-header-template.php:75
+#: header-footer-template/header-builder/turbo-header-template.php:581
+msgid "All Blog Posts"
+msgstr "Toutes les publications du blog"
+
+#: header-footer-template/footer-builder/turbo-footer-template.php:77
+#: header-footer-template/footer-builder/turbo-footer-template.php:130
+#: header-footer-template/header-builder/turbo-header-template.php:74
+#: header-footer-template/header-builder/turbo-header-template.php:580
+msgid "Entire Site"
+msgstr "Dans tout le site"
+
+#: header-footer-template/footer-builder/turbo-footer-template.php:73
+#: header-footer-template/footer-builder/turbo-footer-template.php:126
+#: header-footer-template/header-builder/turbo-header-template.php:70
+#: header-footer-template/header-builder/turbo-header-template.php:577
+msgid "Set Display Condition:"
+msgstr "Définir la condition d’affichage :"
+
+#: header-footer-template/footer-builder/turbo-footer-template.php:62
+#: header-footer-template/footer-builder/turbo-footer-template.php:90
+#: header-footer-template/header-builder/turbo-header-template.php:60
+#: header-footer-template/header-builder/turbo-header-template.php:85
+msgid "Select All"
+msgstr "Tout sélectionner"
+
+#: header-footer-template/footer-builder/turbo-footer-template.php:61
+#: header-footer-template/header-builder/turbo-header-template.php:59
+#: header-footer-template/header-builder/turbo-header-template.php:569
+msgid "Include Pages:"
+msgstr "Pages inclues :"
+
+#: header-footer-template/footer-builder/turbo-footer-template.php:57
+msgid "Type footer name"
+msgstr "Saisir le nom du pied de page"
+
+#: header-footer-template/footer-builder/turbo-footer-template.php:56
+msgid "Footer Name"
+msgstr "Nom du pied de page"
+
+#: header-footer-template/footer-builder/turbo-footer-template.php:52
+#: header-footer-template/footer-builder/turbo-footer-template.php:112
+#: header-footer-template/header-builder/turbo-header-template.php:52
+#: header-footer-template/header-builder/turbo-header-template.php:564
+msgid "Turbo Addons Logo"
+msgstr "Logo Turbo Addons"
+
+#: header-footer-template/footer-builder/turbo-footer-template.php:51
+msgid "Create New Footer"
+msgstr "Créer un nouveau pied de page"
+
+#: header-footer-template/footer-builder/turbo-footer-template.php:17
+msgid "View Footer Template"
+msgstr "Voir le modèle de pied de page"
+
+#: header-footer-template/footer-builder/turbo-footer-template.php:16
+msgid "New Footer Template"
+msgstr "Nouveau modèle de pied de page"
+
+#: header-footer-template/footer-builder/turbo-footer-template.php:15
+msgid "Edit Footer Template"
+msgstr "Modifier le modèle de pied de page"
+
+#: header-footer-template/footer-builder/turbo-footer-template.php:14
+msgid "Add New Footer Template"
+msgstr "Ajouter un nouveau modèle de pied de page"
+
+#: header-footer-template/footer-builder/turbo-footer-template.php:13
+msgid "Add Footer Template"
+msgstr "Ajouter le modèle de pied de page"
+
+#: header-footer-template/footer-builder/turbo-footer-template.php:11
+#: header-footer-template/footer-builder/turbo-footer-template.php:12
+msgid "Footer Template"
+msgstr "Modèle de pied de page"
+
+#: header-footer-template/footer-builder/turbo-footer-template.php:10
+#: header-footer-template/footer-builder/turbo-footer-template.php:18
+msgid "Footer Templates"
+msgstr "Modèles de pied de page"
+
+#: header-footer-builder-for-elementor.php:363
+msgid "PHP"
+msgstr "PHP"
+
+#: header-footer-builder-for-elementor.php:342
+msgid "Elementor"
+msgstr "Elementor"
+
+#: header-footer-builder-for-elementor.php:341
+#: header-footer-builder-for-elementor.php:362
+msgid "Turbo Header Footer Builder For Elementor"
+msgstr "Turbo Header Footer Builder For Elementor"
+
+#. translators: 1: Plugin name (Header Footer Builder), 2: Dependency name
+#. (Elementor), 3: Minimum required Elementor version
+#. translators: 1: Plugin name (Header Footer Builder), 2: Software name (PHP),
+#. 3: Minimum required PHP version
+#: header-footer-builder-for-elementor.php:340
+#: header-footer-builder-for-elementor.php:361
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr "« %1$s » nécessite « %2$s » en version %3$s ou supérieure."
+
+#: includes/class-hfb-recommend-turbo-addons.php:106
+msgid "Install Turbo Addons"
+msgstr "Installer des modules Turbo"
+
+#: includes/class-hfb-recommend-turbo-addons.php:100
+msgid "Activate Turbo Addons"
+msgstr "Activezr les modules Turbo"
+
+#. Author URI of the plugin
+#: header-footer-builder-for-elementor.php
+msgid "https://wp-turbo.com/"
+msgstr "https://wp-turbo.com/"
+
+#. Author of the plugin
+#: header-footer-builder-for-elementor.php
+msgid "turbo addons"
+msgstr "turbo addons"
+
+#. Plugin URI of the plugin
+#: header-footer-builder-for-elementor.php
+msgid "https://wp-turbo.com/header-footer-builder-for-elementor/"
+msgstr "https://wp-turbo.com/header-footer-builder-for-elementor/"
+
+#. Plugin Name of the plugin
+#: header-footer-builder-for-elementor.php
+msgid "Header Footer Builder for Elementor"
+msgstr "Header Footer Builder for Elementor"

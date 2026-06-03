@@ -1,0 +1,3 @@
+threding ou multiprocessing  => multi task en parallele
+
+thredin => dans la meme processeur par contre multiproccising => en plusieur processeur
