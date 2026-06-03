@@ -95,4 +95,4 @@ ML-Developper
 
 ## 📄 Licence
 
-Projet personnel ou éducatif.<img width="1582" height="776" alt="Screenshot From 2026-06-03 22-56-05" src="https://github.com/user-attachments/assets/1c7bf94e-0422-4dc5-bf99-d523732093ce" />
+Projet personnel ou éducatif.
